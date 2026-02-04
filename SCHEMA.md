@@ -7,7 +7,7 @@ Este archivo describe la estructura de datos del corpus paralelo español–shua
 **Codificación**: UTF-8 (obligatoria para caracteres del shuar)  
 **Licencia del corpus derivado**: Creative Commons Attribution 4.0 International (CC BY 4.0)  
 **Licencia de textos originales**: Institucional – Ministerio de Educación del Ecuador (EIB/CNIB) – Uso educativo autorizado  
-**DOI (al publicar)**: [insertar DOI de Zenodo/GitHub]  
+**DOI (al publicar)**: 10.5281/zenodo.18483848  
 **Última actualización**: Enero 2026
 
 ## Estructura del archivo CSV principal (corpus.csv)
