@@ -1,0 +1,25 @@
+# Licencia
+
+Corpus paralelo español–shuar  
+© 2026 Ares Apolo Vega Chiriap  
+
+Este repositorio y todos sus contenidos (incluyendo SCHEMA.md, README.md, definiciones técnicas, esquemas, diagramas, documentación, scripts y cualquier material generado por el autor) están licenciados bajo  
+
+**Creative Commons Attribution 4.0 International (CC BY 4.0)**  
+https://creativecommons.org/licenses/by/4.0/
+
+Puedes:
+- Compartir — copiar y redistribuir el material en cualquier medio o formato  
+- Adaptar — remezclar, transformar y construir sobre el material para cualquier propósito, incluso comercialmente  
+
+Bajo los siguientes términos:
+- Atribución — Debes dar el crédito apropiado, proporcionar un enlace a la licencia e indicar si se realizaron cambios. Puedes hacerlo de cualquier manera razonable, pero no de una manera que sugiera que el licenciador te respalda a ti o al uso que haces.
+
+Texto legal completo: https://creativecommons.org/licenses/by/4.0/legalcode
+
+**Nota importante sobre el contenido original**  
+Los textos originales incluidos en el corpus provienen de materiales oficiales del Ministerio de Educación del Ecuador (EIB/CNIB) y mantienen sus derechos y licencias institucionales originales (autorizados para uso educativo y académico, según normativa vigente).  
+La licencia CC BY 4.0 aplica **exclusivamente** al trabajo derivado creado por el autor: alineación de pares, limpieza, normalización, metadatos agregados, documentación técnica, esquemas y cualquier otro aporte generado en este proyecto.
+
+**Cita recomendada**  
+Vega Chiriap, A. A. (2026). Construcción de un corpus paralelo español–shuar mediante técnicas de ingeniería de datos para aplicaciones de procesamiento del lenguaje natural. Escuela Superior Politécnica de Chimborazo, Sede Morona Santiago. DOI: 10.5281/zenodo.18483848. Licencia: CC BY 4.0.
