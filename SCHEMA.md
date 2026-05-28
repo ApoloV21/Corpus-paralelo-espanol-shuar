@@ -18,7 +18,7 @@ Este archivo describe la estructura de datos del corpus paralelo español–shua
 | frase_sh         | String           | Oración en shuar (texto original)                                           | "Jimiara uchi tsapan achiakainiawai"          | Sí          | Texto limpio, preservando morfología aglutinante   |
 | dominio          | String           | Dominio temático del texto                                                  | Educativo / Cultural / Literario / Médico     | Sí          | Valores controlados (lista predefinida)            |
 | fecha_recoleccion| Date (ISO 8601)  | Fecha de incorporación del texto al corpus                                  | 2026-01-21                                    | Sí          | Formato YYYY-MM-DD                                 |
-| origen_id        | String           | Identificador de la fuente original                                         | MINEDUC-EIB-2023-Curriculo-Shuar-001          | Sí          | Referencia al documento oficial del Ministerio     |
+| origen        | String           | Fuente original                                         | SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación          | Sí          | Referencia a la fuente oficial del Ministerio     |
 
 ## Convenciones adicionales
 - Todos los textos están en codificación UTF-8 (soporte para diacríticos y caracteres del shuar).
@@ -30,4 +30,4 @@ Este archivo describe la estructura de datos del corpus paralelo español–shua
 
 ```csv
 id,frase_es,frase_sh,dominio,fecha_recoleccion,origen_id
-1,"Las dos niñas tienen pilche","Jimiara uchi tsapan achiakainiawai","Educativo","2026-01-21","MINEDUC-EIB-2023-001"
+1,"Las dos niñas tienen pilche","Jimiara uchi tsapan achiakainiawai","Educativo","2026-01-21","Instituto Nacional de Patrimonio Cultural"
