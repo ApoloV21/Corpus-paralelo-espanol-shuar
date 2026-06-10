@@ -29,5 +29,5 @@ Este archivo describe la estructura de datos del corpus paralelo español–shua
 ## Ejemplo de fila CSV (encabezado + una fila)
 
 ```csv
-id,frase_es,frase_sh,dominio,fecha_recoleccion,origen_id
+id,frase_es,frase_sh,dominio,fecha_recoleccion,origen
 1,"Las dos niñas tienen pilche","Jimiara uchi tsapan achiakainiawai","Educativo","2026-01-21","Instituto Nacional de Patrimonio Cultural"
