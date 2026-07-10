@@ -1,6 +1,8 @@
 # Corpus Paralelo Español–Shuar
 
-## Construcción de un corpus paralelo español–shuar mediante técnicas de ingeniería de datos para aplicaciones de Procesamiento del Lenguaje Natural
+Repositorio oficial del proyecto de titulación:
+
+**Construcción de un corpus paralelo español–shuar mediante técnicas de ingeniería de datos para aplicaciones de Procesamiento del Lenguaje Natural**
 
 ---
 
@@ -8,30 +10,30 @@
 
 Este repositorio contiene un corpus paralelo **Español–Shuar** construido a partir de documentos bilingües oficiales provenientes de instituciones públicas del Ecuador.
 
-El corpus fue desarrollado como parte del proyecto de titulación:
-
-> **Construcción de un corpus paralelo español–shuar mediante técnicas de ingeniería de datos para aplicaciones de Procesamiento del Lenguaje Natural.**
-
-Su propósito es proporcionar un recurso lingüístico documentado, interoperable y reutilizable para investigaciones relacionadas con el Procesamiento del Lenguaje Natural (PLN) en lenguas indígenas de bajo recurso.
+El corpus tiene como finalidad proporcionar un recurso lingüístico documentado, interoperable y reutilizable para investigaciones relacionadas con el Procesamiento del Lenguaje Natural (PLN) y otras aplicaciones de lingüística computacional en lenguas indígenas de bajo recurso.
 
 ---
 
 ## Objetivo
 
-Construir un corpus paralelo Español–Shuar mediante técnicas de ingeniería de datos que permita disponer de un recurso estructurado para futuras aplicaciones de procesamiento del lenguaje natural.
+Construir un corpus paralelo español–shuar mediante técnicas de ingeniería de datos para aplicaciones de Procesamiento del Lenguaje Natural.
+
+---
+
+## DOI
+
+https://doi.org/10.5281/zenodo.18483848
 
 ---
 
 ## Características del corpus
 
-- Idiomas: Español – Shuar
-- Tipo de corpus: Paralelo
-- Unidad de alineación: Oración–Oración (1:1)
-- Codificación: UTF-8
-- Formatos disponibles:
-  - CSV
-  - JSON
-- Dominios:
+- **Idiomas:** Español – Shuar
+- **Tipo de corpus:** Paralelo
+- **Unidad de alineación:** Oración–Oración (1:1)
+- **Codificación:** UTF-8
+- **Formatos:** CSV y JSON
+- **Dominios temáticos:**
   - Educativo
   - Cultural
   - Literario
@@ -47,7 +49,9 @@ Construir un corpus paralelo Español–Shuar mediante técnicas de ingeniería 
 | Pares alineados | 5762 |
 | Tokens (Español) | 35976 |
 | Tokens (Shuar) | 22704 |
-| Tasa de alineación | >90 % |
+| Tasa de alineación | 100 % |
+
+> **Nota:** Verifique que estas estadísticas coincidan con la versión final del corpus publicada.
 
 ---
 
@@ -58,62 +62,57 @@ Corpus-paralelo-espanol-shuar/
 │
 ├── Corpus/
 │   ├── Corpus-paralelo-espanol-shuar.csv
-│   ├── Corpus-paralelo-espanol-shuar.json
-|
-├── Códigos/
+│   └── Corpus-paralelo-espanol-shuar.json
+│
+├── Codigos/
 │   ├── Creacion_corpus.py
 │   ├── Detectar_duplicados.py
 │   ├── Extraer_imagenes_ocr.py
 │   ├── Extraer_texto_adaptativo.py
-│   └── Limpieza_normalizacion.py
+│   ├── Limpieza_normalizacion.py
 │   └── Metricas_corpus.py
-|
+│
 ├── README.md
 ├── SCHEMA.md
 ├── LICENSE
+└── CITATION.cff
 ```
 
 ---
 
 ## Estructura del corpus
 
-Cada registro representa un par de oraciones alineadas.
+Cada registro representa un par de oraciones alineadas (1:1).
 
-| Campo | Descripción |
-|--------|-------------|
-| id | Identificador único |
-| frase_es | Oración en español |
-| frase_sh | Oración en shuar |
-| dominio | Dominio temático |
-| fecha | Fecha de incorporación |
-| origen | Documento fuente |
+Los campos disponibles son:
 
-Ejemplo:
+- `id`
+- `frase_es`
+- `frase_sh`
+- `dominio`
+- `fecha_recoleccion`
+- `origen`
 
-| id | frase_es | frase_sh | dominio |
-|----|-----------|-----------|----------|
-|1|Buenos días|Penker pujustin|Educativo|
+La especificación técnica completa, incluyendo tipos de datos, restricciones y ejemplos, se encuentra en **SCHEMA.md**.
 
 ---
 
 ## Metodología de construcción
 
-La construcción del corpus se desarrolló en cuatro fases:
+El corpus fue construido mediante un pipeline de ingeniería de datos compuesto por cuatro fases:
 
 1. Definición del corpus.
 2. Recolección de documentos bilingües.
 3. Limpieza, normalización y alineación.
-4. Cálculo de métricas descriptivas.
+4. Medición de métricas descriptivas.
 
 ---
 
-## Requisitos
+## Requisitos de software
 
-Python 3.12 o superior.
+- Python 3.12 o superior.
 
----
-
-## Dependencias principales
+### Bibliotecas principales
 
 - pdfplumber
 - easyocr
@@ -127,12 +126,12 @@ Python 3.12 o superior.
 
 ## Principios FAIR
 
-El corpus fue diseñado considerando los principios FAIR:
+El corpus fue diseñado considerando los principios FAIR.
 
-- **Findable**: estructura documentada y metadatos.
-- **Accessible**: formatos abiertos (CSV y JSON).
-- **Interoperable**: codificación UTF-8 y esquema documentado.
-- **Reusable**: documentación técnica y licencia abierta.
+- **Findable:** documentación y metadatos estructurados.
+- **Accessible:** formatos abiertos (CSV y JSON).
+- **Interoperable:** codificación UTF-8 y esquema de datos documentado.
+- **Reusable:** documentación técnica y licencia abierta.
 
 ---
 
@@ -140,39 +139,76 @@ El corpus fue diseñado considerando los principios FAIR:
 
 Este recurso puede utilizarse en investigaciones relacionadas con:
 
-- Traducción automática
-- Modelos de lenguaje
-- Recuperación de información
-- Sistemas de búsqueda bilingüe
-- Lingüística computacional
-- Procesamiento del lenguaje natural para lenguas indígenas
-- Construcción de embeddings
-- Fine-tuning de modelos neuronales
+- Traducción automática.
+- Modelos de lenguaje.
+- Sistemas de recuperación de información.
+- Sistemas de búsqueda bilingüe.
+- Lingüística computacional.
+- Procesamiento del Lenguaje Natural para lenguas indígenas.
+- Construcción de embeddings.
+- Fine-tuning de modelos neuronales.
+
+---
+
+## Fuentes documentales
+
+El corpus fue construido a partir de documentos bilingües publicados por instituciones oficiales del Ecuador:
+
+- Secretaría de Educación Intercultural Bilingüe y la Etnoeducación (SEIBE).
+- Ministerio de Educación del Ecuador.
+- Instituto Nacional de Patrimonio Cultural (INPC).
+
+Los derechos de autor de dichos documentos pertenecen a sus respectivos titulares.
+
+---
+
+## Limitaciones
+
+- El corpus fue construido exclusivamente a partir de documentos bilingües oficiales.
+- No representa la totalidad de las variantes dialectales del idioma shuar.
+- La distribución temática depende de la disponibilidad documental existente.
+- No incorpora traducciones automáticas.
+- Puede ampliarse en futuras versiones mediante la incorporación de nuevas fuentes documentales.
 
 ---
 
 ## Citación
 
-Si utiliza este corpus en una investigación, cite el proyecto correspondiente.
+Si utiliza este corpus en una investigación, cite el recurso de la siguiente manera:
 
-Ejemplo:
-
-```
-Vega, A. (2026). Construcción de un corpus paralelo español–shuar mediante técnicas de ingeniería de datos para aplicaciones de procesamiento del lenguaje natural. Ecuela Superior Politécnica de Chimborazo Sede Morona Santiago.
+```bibtex
+@misc{Vega2026,
+  author = {Vega Chiriap, Ares Apolo},
+  title = {Corpus Paralelo Español--Shuar},
+  year = {2026},
+  publisher = {Escuela Superior Politécnica de Chimborazo},
+  doi = {10.5281/zenodo.18483848}
+}
 ```
 
 ---
 
 ## Licencia
 
-Este proyecto se distribuye bajo la licencia especificada en el archivo **LICENSE**.
+Este proyecto se distribuye bajo la licencia descrita en el archivo **LICENSE**.
+
+La licencia **CC BY 4.0** aplica a:
+
+- documentación técnica;
+- scripts;
+- metadatos;
+- estructura del corpus;
+- procesos de alineación y normalización desarrollados por el autor.
+
+Los documentos originales utilizados como fuente mantienen los derechos de autor de sus respectivas instituciones.
 
 ---
 
 ## Autor
 
-**Ares Vega**
+**Ares Apolo Vega Chiriap**
 
-Escuela Superior Politécnica de Chimborazo
+Escuela Superior Politécnica de Chimborazo  
+Sede Morona Santiago
 
 2026
