@@ -15,7 +15,7 @@ identifiers:
   - type: doi
     value: 10.5281/zenodo.18483848
 
-repository-code: "https://github.com/TU_USUARIO/Corpus-paralelo-espanol-shuar"
+repository-code: "https://github.com/ApoloV21/Corpus-paralelo-espanol-shuar"
 
 license: CC-BY-4.0
 
