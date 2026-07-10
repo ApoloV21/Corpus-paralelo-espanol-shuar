@@ -1,57 +1,59 @@
 # SCHEMA.md
 
-# Esquema de Datos del Corpus Paralelo Español–Shuar
+# Esquema del Corpus Paralelo Español–Shuar
 
 ## Descripción
 
-Este documento describe la estructura del corpus paralelo español–shuar desarrollado mediante técnicas de ingeniería de datos para aplicaciones de Procesamiento del Lenguaje Natural (PLN).
+Este documento especifica la estructura y las restricciones del conjunto de datos que conforma el corpus paralelo Español–Shuar.
 
-El corpus está compuesto por pares de oraciones alineadas (1:1) obtenidas de documentos bilingües oficiales de la Educación Intercultural Bilingüe del Ecuador.
+El corpus contiene pares de oraciones alineadas (1:1), extraídos de documentos bilingües oficiales de la Educación Intercultural Bilingüe del Ecuador y estructurados mediante técnicas de ingeniería de datos.
 
 ---
 
-# Especificaciones generales
+## Información general
 
 | Propiedad | Valor |
 |-----------|-------|
 | Formato principal | CSV |
 | Formato alternativo | JSON |
 | Codificación | UTF-8 |
-| Unidad de alineación | Oración – Oración (1:1) |
-| Licencia | CC BY 4.0 |
-| DOI | 10.5281/zenodo.18483848 |
+| Unidad de alineación | Oración–Oración (1:1) |
 | Idiomas | Español (es), Shuar (jiv) |
-| Última actualización | Enero 2026 |
+| Licencia | CC BY 4.0 |
+| DOI | https://doi.org/10.5281/zenodo.18483848 |
+| Versión | 1.0 |
+| Última actualización | Julio 2026 |
 
 ---
 
 # Archivo principal
 
 ```
-Corpus-paralelo-espanol-shuar.csv
+Corpus/Corpus-paralelo-espanol-shuar.csv
 ```
 
 ---
 
-# Esquema del archivo
+# Esquema de datos
 
 | Campo | Tipo | Obligatorio | Descripción |
-|--------|------|-------------|-------------|
+|--------|------|:-----------:|-------------|
 | id | Integer | Sí | Identificador único del par alineado. |
-| frase_es | String | Sí | Oración en español. |
-| frase_sh | String | Sí | Oración equivalente en shuar. |
-| dominio | String | Sí | Dominio temático del documento. |
+| frase_es | String | Sí | Oración original en español. |
+| frase_sh | String | Sí | Oración equivalente en idioma shuar. |
+| dominio | String | Sí | Dominio temático del documento fuente. |
 | fecha | Date | Sí | Fecha de incorporación al corpus (ISO 8601). |
-| origen | String | Sí | Institución de procedencia del documento. |
+| origen | String | Sí | Institución responsable del documento fuente. |
 
 ---
 
-# Restricciones
+# Restricciones por campo
 
 ## id
 
 - Entero positivo.
-- No admite duplicados.
+- Valor único.
+- Sin duplicados.
 
 Ejemplo
 
@@ -63,10 +65,10 @@ Ejemplo
 
 ## frase_es
 
-- Texto UTF-8.
+- Texto codificado en UTF-8.
 - Una única oración.
-- No contiene saltos de línea.
-- Sin espacios innecesarios.
+- Sin saltos de línea.
+- Conserva la puntuación original.
 
 Ejemplo
 
@@ -78,10 +80,10 @@ Las dos niñas tienen pilche.
 
 ## frase_sh
 
-- Texto UTF-8.
+- Texto codificado en UTF-8.
 - Una única oración.
 - Conserva íntegramente la escritura original del idioma shuar.
-- No contiene modificaciones lingüísticas.
+- No presenta modificaciones lingüísticas.
 
 Ejemplo
 
@@ -106,7 +108,7 @@ Médico
 
 ## fecha_recoleccion
 
-Formato ISO 8601
+Formato
 
 ```
 YYYY-MM-DD
@@ -125,9 +127,11 @@ Ejemplo
 Valores esperados
 
 ```
-SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+SEIBE -Secretaría de Educación Intercultural Bilingüe y la Etnoeducación 
+
+Ministerio de Educación del Ecuador
+
 Instituto Nacional de Patrimonio Cultural
-Ministerio de Educación
 ```
 
 ---
@@ -141,42 +145,29 @@ id,frase_es,frase_sh,dominio,fecha_recoleccion,origen
 
 ---
 
-# Convenciones
+# Reglas del corpus
 
-- Todos los archivos utilizan codificación UTF-8.
-- Cada registro representa un único par de oraciones.
+- Cada registro representa exactamente un par de oraciones alineadas.
 - La alineación es estrictamente 1:1.
 - No existen registros duplicados.
-- No se incluyen líneas vacías.
-- El corpus procede únicamente de documentos oficiales bilingües.
-- No se realizaron traducciones automáticas.
-- La correspondencia bilingüe fue verificada manualmente durante el proceso de construcción.
+- No se incluyen registros vacíos.
+- Todos los archivos utilizan codificación UTF-8.
+- Los textos proceden exclusivamente de documentos bilingües oficiales.
+- No se incorporan traducciones automáticas.
+- La correspondencia entre ambos idiomas fue verificada durante el proceso de construcción del corpus.
 
 ---
 
-# Principios FAIR
+# Integridad de los datos
 
-## Findable
+El corpus cumple las siguientes condiciones:
 
-- Publicación mediante Zenodo.
-- DOI permanente.
-
-## Accessible
-
-- Repositorio GitHub.
-- Licencia CC BY 4.0.
-
-## Interoperable
-
-- Formatos abiertos (CSV y JSON).
-- UTF-8.
-- Esquema documentado.
-
-## Reusable
-
-- Documentación técnica completa.
-- Metadatos normalizados.
-- Licencia abierta.
+- Identificadores únicos.
+- Sin pares duplicados.
+- Sin líneas vacías.
+- Codificación UTF-8 validada.
+- Estructura uniforme en CSV y JSON.
+- Correspondencia uno a uno entre ambos idiomas.
 
 ---
 
@@ -185,7 +176,7 @@ id,frase_es,frase_sh,dominio,fecha_recoleccion,origen
 ```
 README.md
 LICENSE
-Corpus-paralelo-espanol-shuar.csv
-Corpus-paralelo-espanol-shuar.json
-SCHEMA.md
+Corpus/
+    Corpus-paralelo-espanol-shuar.csv
+    Corpus-paralelo-espanol-shuar.json
 ```
