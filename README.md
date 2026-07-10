@@ -49,9 +49,8 @@ https://doi.org/10.5281/zenodo.18483848
 | Pares alineados | 5762 |
 | Tokens (Español) | 35976 |
 | Tokens (Shuar) | 22704 |
-| Tasa de alineación | 100 % |
+| Tasa de alineación | >90 % |
 
-> **Nota:** Verifique que estas estadísticas coincidan con la versión final del corpus publicada.
 
 ---
 
