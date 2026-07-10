@@ -89,7 +89,7 @@ Los campos disponibles son:
 - `frase_es`
 - `frase_sh`
 - `dominio`
-- `fecha_recoleccion`
+- `fecha`
 - `origen`
 
 La especificación técnica completa, incluyendo tipos de datos, restricciones y ejemplos, se encuentra en **SCHEMA.md**.
