@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+title: "Corpus paralelo Español–Shuar"
+message: >
+  Si utiliza este corpus o alguno de los recursos asociados en una investigación,
+  por favor cite este repositorio utilizando la referencia indicada.
+
+type: dataset
+
+authors:
+  - family-names: Vega Chiriap
+    given-names: Ares Apolo
+    affiliation: Escuela Superior Politécnica de Chimborazo
+
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.18483848
+
+repository-code: "https://github.com/TU_USUARIO/Corpus-paralelo-espanol-shuar"
+
+license: CC-BY-4.0
+
+keywords:
+  - Corpus paralelo
+  - Lengua Shuar
+  - Procesamiento del Lenguaje Natural
+  - Ingeniería de datos
+  - Lenguas de bajo recurso
+
+abstract: >
+  Corpus paralelo Español–Shuar construido a partir de documentos bilingües
+  oficiales mediante técnicas de ingeniería de datos para aplicaciones
+  de procesamiento del lenguaje natural.
+
+version: "1.0"
+
+date-released: 2026-01-21
