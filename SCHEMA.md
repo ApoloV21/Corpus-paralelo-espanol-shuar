@@ -189,14 +189,3 @@ Corpus-paralelo-espanol-shuar.csv
 Corpus-paralelo-espanol-shuar.json
 SCHEMA.md
 ```
-
----
-
-# Citación
-
-```
-Vega Chiriap, A. A. (2026).
-Corpus paralelo español–shuar para aplicaciones de Procesamiento del Lenguaje Natural.
-Escuela Superior Politécnica de Chimborazo.
-https://doi.org/10.5281/zenodo.18483848
-```
