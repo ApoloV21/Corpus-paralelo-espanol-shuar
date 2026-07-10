@@ -1936,5 +1936,3 @@ Consolidación de tablas y gráficos
 ## Consideraciones
 
 Este módulo permite caracterizar el corpus desde una perspectiva descriptiva y cuantitativa. Sus resultados sirven como evidencia técnica para evaluar la dimensión del conjunto de datos, la variabilidad léxica de ambos idiomas y la distribución temática de los segmentos incluidos.
-
-La información generada puede utilizarse en la redacción de resultados, discusión metodológica y validación del corpus dentro del trabajo de titulación.
