@@ -1,38 +1,48 @@
 # LICENSE
 
-# Licencia del proyecto
+# Creative Commons Attribution 4.0 International (CC BY 4.0)
 
-Corpus paralelo español–shuar
-© 2026 Ares Apolo Vega Chiriap
+Copyright (c) 2026
+Ares Apolo Vega Chiriap
 
-La documentación, el código fuente y los recursos originales desarrollados para este proyecto se distribuyen bajo la licencia:
+Este repositorio se distribuye bajo la licencia **Creative Commons Attribution 4.0 International (CC BY 4.0)**.
 
-Creative Commons Attribution 4.0 International (CC BY 4.0)
+Texto completo de la licencia:
 
 https://creativecommons.org/licenses/by/4.0/
 
-## La licencia permite
+Resumen legible:
+
+https://creativecommons.org/licenses/by/4.0/deed.es
+
+---
+
+## Permisos
+
+Esta licencia permite:
 
 - Compartir el material en cualquier medio o formato.
-- Adaptar, transformar y reutilizar el contenido, incluso con fines comerciales.
+- Adaptar, transformar y reutilizar el contenido.
+- Utilizar el material con fines académicos, educativos o comerciales.
 
-Siempre que se otorgue la atribución correspondiente al autor.
+Siempre que se otorgue la atribución correspondiente al autor y se indique si se realizaron modificaciones.
 
 ---
 
 ## Alcance de la licencia
 
-La licencia CC BY 4.0 aplica únicamente a los elementos desarrollados por el autor, incluyendo:
+La licencia CC BY 4.0 aplica exclusivamente a los aportes originales desarrollados en este proyecto, incluyendo:
 
-- Documentación técnica (README.md, SCHEMA.md, etc.).
-- Scripts y código fuente.
-- Esquemas metodológicos.
-- Diagramas.
-- Metadatos del corpus.
-- Alineación de pares.
-- Limpieza y normalización de datos.
-- Organización y estructuración del corpus.
-- Cualquier otro contenido original generado durante el proyecto.
+- documentación técnica;
+- scripts y código fuente;
+- esquemas metodológicos;
+- diagramas;
+- metadatos;
+- estructura del corpus;
+- alineación de pares bilingües;
+- procedimientos de limpieza y normalización;
+- organización y procesamiento de los datos;
+- cualquier otro contenido original generado por el autor.
 
 ---
 
@@ -40,23 +50,23 @@ La licencia CC BY 4.0 aplica únicamente a los elementos desarrollados por el au
 
 El corpus fue construido a partir de documentos bilingües publicados por instituciones oficiales del Ecuador, entre ellas:
 
-- Secretaría de Educación Intercultural Bilingüe y la Etnoeducación (SEIBE)
-- Ministerio de Educación del Ecuador
-- Instituto Nacional de Patrimonio Cultural (INPC)
+- Secretaría de Educación Intercultural Bilingüe y la Etnoeducación (SEIBE);
+- Ministerio de Educación del Ecuador;
+- Instituto Nacional de Patrimonio Cultural (INPC).
 
-Los derechos de autor de dichos documentos permanecen en sus respectivos titulares.
+Los textos originales incluidos en el corpus conservan los derechos de autor y las condiciones de uso establecidas por sus respectivos titulares.
 
-Esta licencia NO modifica ni reemplaza las condiciones legales aplicables a los documentos originales.
+La presente licencia no modifica, sustituye ni amplía los derechos aplicables a dichos documentos.
 
-Los usuarios del corpus son responsables de verificar las condiciones de uso de las fuentes originales cuando reutilicen total o parcialmente dichos contenidos.
+Los usuarios son responsables de verificar las condiciones legales correspondientes cuando reutilicen total o parcialmente los contenidos originales.
 
 ---
 
 ## Descargo de responsabilidad
 
-El presente repositorio constituye un recurso académico desarrollado con fines de investigación.
+Este repositorio constituye un recurso académico desarrollado con fines de investigación.
 
-El autor no reclama derechos de autor sobre los textos originales utilizados como fuente, sino únicamente sobre la selección, organización, procesamiento, alineación, metadatos, documentación y demás aportes intelectuales incorporados durante la construcción del corpus.
+El autor no reclama derechos de autor sobre los documentos originales utilizados como fuente, sino únicamente sobre la selección, organización, estructuración, alineación, procesamiento, documentación y demás aportes intelectuales incorporados durante la construcción del corpus.
 
 ---
 
