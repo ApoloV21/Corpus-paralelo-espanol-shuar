@@ -1,25 +1,65 @@
-# Licencia
+# LICENSE
 
-Corpus paralelo español–shuar  
-© 2026 Ares Apolo Vega Chiriap  
+# Licencia del proyecto
 
-Este repositorio y todos sus contenidos (incluyendo SCHEMA.md, README.md, definiciones técnicas, esquemas, diagramas, documentación, scripts y cualquier material generado por el autor) están licenciados bajo  
+Corpus paralelo español–shuar
+© 2026 Ares Apolo Vega Chiriap
 
-**Creative Commons Attribution 4.0 International (CC BY 4.0)**  
+La documentación, el código fuente y los recursos originales desarrollados para este proyecto se distribuyen bajo la licencia:
+
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
 https://creativecommons.org/licenses/by/4.0/
 
-Puedes:
-- Compartir — copiar y redistribuir el material en cualquier medio o formato  
-- Adaptar — remezclar, transformar y construir sobre el material para cualquier propósito, incluso comercialmente  
+## La licencia permite
 
-Bajo los siguientes términos:
-- Atribución — Debes dar el crédito apropiado, proporcionar un enlace a la licencia e indicar si se realizaron cambios. Puedes hacerlo de cualquier manera razonable, pero no de una manera que sugiera que el licenciador te respalda a ti o al uso que haces.
+- Compartir el material en cualquier medio o formato.
+- Adaptar, transformar y reutilizar el contenido, incluso con fines comerciales.
 
-Texto legal completo: https://creativecommons.org/licenses/by/4.0/legalcode
+Siempre que se otorgue la atribución correspondiente al autor.
 
-**Nota importante sobre el contenido original**  
-Los textos originales incluidos en el corpus provienen de materiales oficiales del Ministerio de Educación del Ecuador (EIB/CNIB) y mantienen sus derechos y licencias institucionales originales (autorizados para uso educativo y académico, según normativa vigente).  
-La licencia CC BY 4.0 aplica **exclusivamente** al trabajo derivado creado por el autor: alineación de pares, limpieza, normalización, metadatos agregados, documentación técnica, esquemas y cualquier otro aporte generado en este proyecto.
+---
 
-**Cita recomendada**  
-Vega Chiriap, A. A. (2026). Construcción de un corpus paralelo español–shuar mediante técnicas de ingeniería de datos para aplicaciones de procesamiento del lenguaje natural. Escuela Superior Politécnica de Chimborazo, Sede Morona Santiago. DOI: 10.5281/zenodo.18483848. Licencia: CC BY 4.0.
+## Alcance de la licencia
+
+La licencia CC BY 4.0 aplica únicamente a los elementos desarrollados por el autor, incluyendo:
+
+- Documentación técnica (README.md, SCHEMA.md, etc.).
+- Scripts y código fuente.
+- Esquemas metodológicos.
+- Diagramas.
+- Metadatos del corpus.
+- Alineación de pares.
+- Limpieza y normalización de datos.
+- Organización y estructuración del corpus.
+- Cualquier otro contenido original generado durante el proyecto.
+
+---
+
+## Materiales de terceros
+
+El corpus fue construido a partir de documentos bilingües publicados por instituciones oficiales del Ecuador, entre ellas:
+
+- Secretaría de Educación Intercultural Bilingüe y la Etnoeducación (SEIBE)
+- Ministerio de Educación del Ecuador
+- Instituto Nacional de Patrimonio Cultural (INPC)
+
+Los derechos de autor de dichos documentos permanecen en sus respectivos titulares.
+
+Esta licencia NO modifica ni reemplaza las condiciones legales aplicables a los documentos originales.
+
+Los usuarios del corpus son responsables de verificar las condiciones de uso de las fuentes originales cuando reutilicen total o parcialmente dichos contenidos.
+
+---
+
+## Descargo de responsabilidad
+
+El presente repositorio constituye un recurso académico desarrollado con fines de investigación.
+
+El autor no reclama derechos de autor sobre los textos originales utilizados como fuente, sino únicamente sobre la selección, organización, procesamiento, alineación, metadatos, documentación y demás aportes intelectuales incorporados durante la construcción del corpus.
+
+---
+
+## Cita recomendada
+
+Vega Chiriap, A. A. (2026). *Construcción de un corpus paralelo español–shuar mediante técnicas de ingeniería de datos para aplicaciones de procesamiento del lenguaje natural*. Escuela Superior Politécnica de Chimborazo. https://doi.org/10.5281/zenodo.18483848
