@@ -46094,5 +46094,2901 @@
     "dominio": "Educativo",
     "fecha": "06-07-2026",
     "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5763",
+    "frase_es": "Mis Alimentos",
+    "frase_sh": "Winia Yurumkar",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5764",
+    "frase_es": "Amiguito ¿Quieres ser saludable? Abre mis páginas, conóceme bien y crecerás sano y fuerte",
+    "frase_sh": "Amikchiru, jachaa ataj takumka, uratka iírsam unuimiaram kakaram tsakartá",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5765",
+    "frase_es": "Tú eres mi amigo y quiero compartir contigo mis secretos",
+    "frase_sh": "Amikiur asákmin wi nekamun jintintiattajme",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5766",
+    "frase_es": "Te enseñaré a reconocer y preparar los mejores alimentos para que seas más fuerte, inteligente, alegre y sano",
+    "frase_sh": "Kakaram, nékau, warawarat nuyá jachaa aminiam tusan yurumak pénker nekaá iwiaratniun jintintiattajme",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5767",
+    "frase_es": "¿Por qué comemos?",
+    "frase_sh": "Urúkamtai yurúmaj",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5768",
+    "frase_es": "¿Qué alimentos debemos consumir?",
+    "frase_sh": "Warí yurumká yuátniuitiaj",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5769",
+    "frase_es": "El abastecimiento de alimentos",
+    "frase_sh": "Yurumák tuyá juuktiniaitiaj",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5770",
+    "frase_es": "Las prácticas alimentarias de ayer y hoy",
+    "frase_sh": "Yamaiya nuyá yaúnchuya yurumak",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5771",
+    "frase_es": "Diversificación en la producción, distribución y consumo",
+    "frase_sh": "Eténmara arákmara yurúmma",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5772",
+    "frase_es": "¿Qué sucede cuando nos alimentamos?",
+    "frase_sh": "Pénker yurumcháktish uruktain",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5773",
+    "frase_es": "objetivos generales",
+    "frase_sh": "anentáimturma urumai ejékatin",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5774",
+    "frase_es": "objetivos específicos",
+    "frase_sh": "anentáimturma wárik jékatin",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5775",
+    "frase_es": "recuerdo e investigo",
+    "frase_sh": "áwakeasnak unuimiatjai",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5776",
+    "frase_es": "Leo la siguiente historia",
+    "frase_sh": "Sútarach aújmattsa aarma aújeajai",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5777",
+    "frase_es": "Escribo las respuestas en mi cuaderno",
+    "frase_sh": "Aíkman paiírui aajai",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5778",
+    "frase_es": "las fuentes de los alimentos",
+    "frase_sh": "yurúmak iruntai",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5779",
+    "frase_es": "mi comida",
+    "frase_sh": "winia yurumkar",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5780",
+    "frase_es": "La comida de ayer",
+    "frase_sh": "Yaú yurímamu",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5781",
+    "frase_es": "desayuno",
+    "frase_sh": "káshik yurúmeamu",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5782",
+    "frase_es": "almuerzo",
+    "frase_sh": "tutupin yurúmeamu",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5783",
+    "frase_es": "merienda",
+    "frase_sh": "kiárai yurúmeamu",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5784",
+    "frase_es": "Yuca",
+    "frase_sh": "Mama",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5785",
+    "frase_es": "Plátano",
+    "frase_sh": "Paántam",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5786",
+    "frase_es": "Plátano",
+    "frase_sh": "champiár",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5787",
+    "frase_es": "Carne",
+    "frase_sh": "Namánk",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5788",
+    "frase_es": "Cacería",
+    "frase_sh": "Kúntin",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5789",
+    "frase_es": "Palmito",
+    "frase_sh": "Ijiu",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5790",
+    "frase_es": "Ayampaco",
+    "frase_sh": "Yunkúrak",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5791",
+    "frase_es": "Chicha",
+    "frase_sh": "Nijiamánch",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5792",
+    "frase_es": "Arroz",
+    "frase_sh": "Arús",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5793",
+    "frase_es": "Fideo",
+    "frase_sh": "Juitir",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5794",
+    "frase_es": "Maduro",
+    "frase_sh": "Tsamá",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5795",
+    "frase_es": "Tuyo",
+    "frase_sh": "Kenké",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5796",
+    "frase_es": "Aves silvestres",
+    "frase_sh": "Kampúnniunmaya nanaptin",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5797",
+    "frase_es": "Aves de corral",
+    "frase_sh": "Jeáya nanaptin",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5798",
+    "frase_es": "Poroto",
+    "frase_sh": "Miik",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5799",
+    "frase_es": "Maní",
+    "frase_sh": "Núse",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5800",
+    "frase_es": "Oritos",
+    "frase_sh": "Mejéch",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5801",
+    "frase_es": "Guineos",
+    "frase_sh": "Inkiram",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5802",
+    "frase_es": "Huevos",
+    "frase_sh": "Nújint",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5803",
+    "frase_es": "Enlatados",
+    "frase_sh": "Jiruna enkékma",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5804",
+    "frase_es": "mi nuevo conocimiento",
+    "frase_sh": "ámaram unuimiatmar",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5805",
+    "frase_es": "¿por qué comemos?",
+    "frase_sh": "urúkamtaiyurumaj",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5806",
+    "frase_es": "No comemos sólo para quitar el hambre o llenar el estómago",
+    "frase_sh": "Ejémarar tsuka emenkaktai tusarkia yurúmtsuii",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5807",
+    "frase_es": "Comemos todos los días para",
+    "frase_sh": "Túke tsáwant yurumji",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5808",
+    "frase_es": "Mantener nuestro cuerpo",
+    "frase_sh": "Ayash tunámarain tsar",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5809",
+    "frase_es": "Estar sanos y fuertes",
+    "frase_sh": "Sunkurmakcha, kakáram átai tsar",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5810",
+    "frase_es": "Trabajar",
+    "frase_sh": "Takakmastai tsar",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5811",
+    "frase_es": "Estudiar",
+    "frase_sh": "Unuimiartai tsar",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5812",
+    "frase_es": "Jugar",
+    "frase_sh": "Nakuurustai tsa",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5813",
+    "frase_es": "Pensar",
+    "frase_sh": "Anentáimsatai tsar",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5814",
+    "frase_es": "¿qué alimentos debemos consumir?",
+    "frase_sh": "warí yurumká yuátniuitiaj",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5815",
+    "frase_es": "Los alimentos por sus contenidos se clasifican en cuatro tipos",
+    "frase_sh": "Yurumkaka aíntiuk akantramuiti",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5816",
+    "frase_es": "Clasificación de los alimentos",
+    "frase_sh": "Yurumká akantramuri",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5817",
+    "frase_es": "carbohidratos",
+    "frase_sh": "ikiakaakratin",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5818",
+    "frase_es": "proteínas",
+    "frase_sh": "tsakatai",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5819",
+    "frase_es": "leche materna",
+    "frase_sh": "nuku muntsuri",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5820",
+    "frase_es": "vitaminas y minerales",
+    "frase_sh": "ayamkartin",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5821",
+    "frase_es": "grasas",
+    "frase_sh": "kakaatai",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5822",
+    "frase_es": "¿Para qué sirven estos alimentos?",
+    "frase_sh": "Juu yurumak warinma yaimin aínia",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5823",
+    "frase_es": "¿Qué es la leche materna?",
+    "frase_sh": "Nua muntsuriisha warimpiait",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5824",
+    "frase_es": "fuentes de abastecimiento de los alimentos",
+    "frase_sh": "yurúmak tuyá juuktiniaitiaj",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5825",
+    "frase_es": "¿de dónde se obtienen los alimentos?",
+    "frase_sh": "yurúmak tuyam juutain",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5826",
+    "frase_es": "Los alimentos se obtienen de",
+    "frase_sh": "Yurumkaka juyá juuntainti",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5827",
+    "frase_es": "Bosque",
+    "frase_sh": "Kampúntin",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5828",
+    "frase_es": "Ríos, riachuelo, charcos, lagunas",
+    "frase_sh": "Entsáya, ashintsnmaya, kuchanmaya, antumknuimia",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5829",
+    "frase_es": "Mercado",
+    "frase_sh": "Túke surutainmaya",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5830",
+    "frase_es": "Huertas",
+    "frase_sh": "Ajánmaya",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5831",
+    "frase_es": "Aves",
+    "frase_sh": "Chinki",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5832",
+    "frase_es": "Animales",
+    "frase_sh": "Yayásma",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5833",
+    "frase_es": "Vegetales",
+    "frase_sh": "Yútai nuka",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5834",
+    "frase_es": "Otros",
+    "frase_sh": "Tikich",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5835",
+    "frase_es": "rios",
+    "frase_sh": "entsa",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5836",
+    "frase_es": "riachuelos",
+    "frase_sh": "ashiints",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5837",
+    "frase_es": "charcos",
+    "frase_sh": "kucha",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5838",
+    "frase_es": "lagunas",
+    "frase_sh": "antumiank",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5839",
+    "frase_es": "huerta",
+    "frase_sh": "aja",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5840",
+    "frase_es": "mercado",
+    "frase_sh": "tuke surutai",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5841",
+    "frase_es": "las prácticas alimentarias de ayer y de hoy",
+    "frase_sh": "yaúnchu nuyá yamaiya yurumak",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5842",
+    "frase_es": "la alimentación de nuestros antepasados",
+    "frase_sh": "ii uuntrí yurumtairi",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5843",
+    "frase_es": "nuestra alimentación actual",
+    "frase_sh": "yamaiya yurumak",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5844",
+    "frase_es": "Los niños Y niñas para estar sanos, crecer, jugar y estudiar bien deben comer tres veces al día alimentos de los cuatro grupos",
+    "frase_sh": "Uchikia penker tsakár, warawarat unuimiartajsa tuke tsawant menaintiu vurumatniuiti",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5845",
+    "frase_es": "Leo la siguiente historia",
+    "frase_sh": "Sútarach aújmatsa aarman aújeajai",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5846",
+    "frase_es": "Arutam, un alumno del sexto nivel del Centro Educativo Comunitario (CEC) de Pampants, salió la ciudad de Macas y se admiró de la variedad de cosas y objetos que observaba, decidió comprar algunos de ellos con el dinero que le entregó su papá: arroz, fideos, pescado enlatado, azúcar, caramelos, chitos y bolos",
+    "frase_sh": "Arutam paampaantsanmaya unuimiatai Chiriapnum ujuk uwi pujá Macas jiintkiimiatkin imiatkin untsuri íruni wainiak, nii apari kuit susámujai arúsan",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5847",
+    "frase_es": "Al retornar a su casa, le entregó a su mamá arroz, azúcar, fideo y pescado enlatado para que los preparará para comer con la familia",
+    "frase_sh": "Juitiiran, namák jiruna enkékman, mishkin, nuyá michan sumar jeen waketki nukurín susamiayi iniarkamtai nii shuarjai yurúmattsa",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5848",
+    "frase_es": "Compartió los caramelos, chitos, galletas etc. con sus hermanos y otra parte con sus compañeros en la escuela",
+    "frase_sh": "Miishkinkia, tantanka ni yachin umáijiai ajamsarmai turá unuimiatainmash nii aín ajamsarmai",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5849",
+    "frase_es": "Hoy existen nuevas comidas como: arroz, fideo, pescado enlatado, azúcar, dulces (caramelos) y helados",
+    "frase_sh": "Yamaikia yámaram yurumkash juu írunui arús, juitiir, namák jíruna enkékma yumín, miíshik, nuyá micha",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5850",
+    "frase_es": "La mayoría de estas comidas contiene solamente carbohidratos, excepto pescado enlatado que es proteína",
+    "frase_sh": "Juu yurumkaka ayatik ikiakaakratin ainiawai, tura namák tsakatainti",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5851",
+    "frase_es": "Los dulces, galletas, helados, chitos se llaman",
+    "frase_sh": "Miishik, tanta, micha, chitos ainia auka",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5852",
+    "frase_es": "comida chatarra",
+    "frase_sh": "ímiancha yurumak aíniawai",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5853",
+    "frase_es": "la dieta actual es más pobre en nutrientes que la dieta de nuestros antepasados y la comida chatarra no tiene ningún valor nutritivo",
+    "frase_sh": "yamaiya yurumkaka, yaunchuyajainkia, nekas ímiatchaiti tura imiantcha yurumkaka ii ayashinkia yayátsui",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5854",
+    "frase_es": "diversificación de la producción, distribución y consumo",
+    "frase_sh": "eténmarar arákmakar yurumma",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5855",
+    "frase_es": "mejoremos nuestra dieta",
+    "frase_sh": "ii yurumkari iwiarkatai",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5856",
+    "frase_es": "¿cómo?",
+    "frase_sh": "itiúra",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5857",
+    "frase_es": "Realizando cultivos diversificados en el huerto de la casa y en el de la escuela",
+    "frase_sh": "Ii ajarin nuyá unuimiatainiam úmamkesar arakmaktai",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5858",
+    "frase_es": "A través de cultivos asociados",
+    "frase_sh": "Irúrar arakmakar",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5859",
+    "frase_es": "Efectuando la rotación de cultivos en el terreno",
+    "frase_sh": "Tikich arák arar yapájia ewékamma",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5860",
+    "frase_es": "una comida balanceada",
+    "frase_sh": "penké yurumak",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5861",
+    "frase_es": "¿qué, quién y cómo?",
+    "frase_sh": "warí, yaa, itiurak",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5862",
+    "frase_es": "papá y mamá son los responsables de conseguir",
+    "frase_sh": "preparar los alimentos | apa nukujai yurumkanka juukar iniarkatin aíniawai",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5863",
+    "frase_es": "Ejemplos de una comida balanceada",
+    "frase_sh": "Penké yurumak iwiaramu iniákmamu",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5864",
+    "frase_es": "Chicha, un ayampaco de pollo con hojas de pelma o yuca y una naranja",
+    "frase_sh": "Nijiamánch, shiámpa nakanké aamjiai tanaka yunkunamu nuyá naránk",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5865",
+    "frase_es": "Un huevo, dos trozos de yuca, palmito, un zapote",
+    "frase_sh": "Nujintjai jimiará mama nakákma, Ijiu nuyá sapút",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5866",
+    "frase_es": "Una taza de maní, 2 tazas de maíz, hojas verdes y papachina",
+    "frase_sh": "Núse tikichik natíp, shaa jimiará, eep nuyá papachina",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5867",
+    "frase_es": "apliquemos nuestros conocimientos",
+    "frase_sh": "ii nekaamuri iniakmastai",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5868",
+    "frase_es": "comparto con mi familia la comunidad",
+    "frase_sh": "wii shuarjal nuyá írutkamurjai takákmajai",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5869",
+    "frase_es": "anent para cosechar",
+    "frase_sh": "arak jawakur anentrutai",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5870",
+    "frase_es": "Maíz tierno como en la noche oscura el maíz va cargando mientras como choclo rápidamente el maíz creció",
+    "frase_sh": "Shaa kuira yuwajaitia kashi kintiamasankeku shaa akatar waniáraya shaa kuira yuwayátsana kashinink kashininkia shaa akatar waniárayi",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5871",
+    "frase_es": "evaluación",
+    "frase_sh": "iik iniak mamma",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5872",
+    "frase_es": "Mis Alimentos",
+    "frase_sh": "Winia Yurúmkar",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5873",
+    "frase_es": "El abastecimiento",
+    "frase_sh": "Tuyá juutain",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5874",
+    "frase_es": "El aceite",
+    "frase_sh": "Macha",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5875",
+    "frase_es": "La admiración",
+    "frase_sh": "Sapíjmiashim",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5876",
+    "frase_es": "El alimento",
+    "frase_sh": "Yurúrak",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5877",
+    "frase_es": "La alimentación",
+    "frase_sh": "Yurúmeamu",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5878",
+    "frase_es": "El almacén",
+    "frase_sh": "Surútai jea",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5879",
+    "frase_es": "El almuerzo",
+    "frase_sh": "Tutúpin yurúmeamu",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5880",
+    "frase_es": "El alumno",
+    "frase_sh": "Unuimia",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5881",
+    "frase_es": "El animal",
+    "frase_sh": "Yayásma",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5882",
+    "frase_es": "El antepasado",
+    "frase_sh": "Yaúnchuya uunt",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5883",
+    "frase_es": "El arroz",
+    "frase_sh": "Arús",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5884",
+    "frase_es": "El ave",
+    "frase_sh": "Chínki",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5885",
+    "frase_es": "El ave de corral",
+    "frase_sh": "Jeaya nanáptin",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5886",
+    "frase_es": "El ave silvestre",
+    "frase_sh": "Kampúnniunmaya",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5887",
+    "frase_es": "El ave silvestre",
+    "frase_sh": "nanáptin",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5888",
+    "frase_es": "El ave silvestre",
+    "frase_sh": "arákmakma",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5889",
+    "frase_es": "El ayampaco",
+    "frase_sh": "Yunkúrak",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5890",
+    "frase_es": "El azúcar",
+    "frase_sh": "Yumín",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5891",
+    "frase_es": "El bebé",
+    "frase_sh": "Uchi kuírach",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5892",
+    "frase_es": "La cacería",
+    "frase_sh": "Eámma",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5893",
+    "frase_es": "El cajón",
+    "frase_sh": "Peenk",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5894",
+    "frase_es": "El concurso",
+    "frase_sh": "Nekápmamma",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5895",
+    "frase_es": "El criadero",
+    "frase_sh": "Tsakátmatai",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5896",
+    "frase_es": "El criadero",
+    "frase_sh": "Napampaatai",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5897",
+    "frase_es": "El criadero",
+    "frase_sh": "apámpaatai",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5898",
+    "frase_es": "El bocadito",
+    "frase_sh": "Apásma",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5899",
+    "frase_es": "El bolo",
+    "frase_sh": "Micha yumin",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5900",
+    "frase_es": "El bosque",
+    "frase_sh": "Kampuntín",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5901",
+    "frase_es": "El cacao",
+    "frase_sh": "Kakáu",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5902",
+    "frase_es": "El calendario",
+    "frase_sh": "Tsawán namanké",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5903",
+    "frase_es": "El caramelo",
+    "frase_sh": "Yumín",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5904",
+    "frase_es": "El carbohidrato",
+    "frase_sh": "Ikiakraakratin",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5905",
+    "frase_es": "La carne",
+    "frase_sh": "Namánk",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5906",
+    "frase_es": "La carne de res",
+    "frase_sh": "Waaka namanké",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5907",
+    "frase_es": "El charco",
+    "frase_sh": "Kucha",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5908",
+    "frase_es": "La chicha",
+    "frase_sh": "Nijiamánch",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5909",
+    "frase_es": "El choclo",
+    "frase_sh": "Shaa Jeá",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5910",
+    "frase_es": "La chonta",
+    "frase_sh": "Uwí",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5911",
+    "frase_es": "La ciudad",
+    "frase_sh": "Aénts matsátma",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5912",
+    "frase_es": "La clase",
+    "frase_sh": "Unuímiamu",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5913",
+    "frase_es": "La clasificación",
+    "frase_sh": "Akántramu",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5914",
+    "frase_es": "La clasificación",
+    "frase_sh": "nankaámakmia",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5915",
+    "frase_es": "La comida balanceada",
+    "frase_sh": "Penké Yurumak",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5916",
+    "frase_es": "La comida chatarra",
+    "frase_sh": "Tímiancha Yurumak",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5917",
+    "frase_es": "El compañero",
+    "frase_sh": "Aír",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5918",
+    "frase_es": "La construcción",
+    "frase_sh": "Nájanma",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5919",
+    "frase_es": "El consumo",
+    "frase_sh": "Yúamu",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5920",
+    "frase_es": "La cosa",
+    "frase_sh": "Imiatkin",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5921",
+    "frase_es": "El cuaderno",
+    "frase_sh": "Aarai papí",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5922",
+    "frase_es": "El cultivo",
+    "frase_sh": "Arakmakma",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5923",
+    "frase_es": "El cultivo asociado",
+    "frase_sh": "Eténmara arákmakma",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5924",
+    "frase_es": "El cultivo diversificado",
+    "frase_sh": "Ankant ankant",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5925",
+    "frase_es": "El desayuno",
+    "frase_sh": "Káshik yurumeamu",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5926",
+    "frase_es": "El día",
+    "frase_sh": "Tsáwant",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5927",
+    "frase_es": "El diario",
+    "frase_sh": "Tuke tsawant",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5928",
+    "frase_es": "La dieta",
+    "frase_sh": "Nuke yuátin",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5929",
+    "frase_es": "El dinero",
+    "frase_sh": "Kuit",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5930",
+    "frase_es": "La distribución",
+    "frase_sh": "Ankán ankant suamu",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5931",
+    "frase_es": "La diversificación",
+    "frase_sh": "Abkant ankant",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5932",
+    "frase_es": "El dulce",
+    "frase_sh": "yumín",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5933",
+    "frase_es": "La edad",
+    "frase_sh": "Uwiiri",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5934",
+    "frase_es": "La educación",
+    "frase_sh": "Unumiat",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5935",
+    "frase_es": "El ejemplo",
+    "frase_sh": "Iniákmasma",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5936",
+    "frase_es": "El energético",
+    "frase_sh": "Ikiakaákratin",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5937",
+    "frase_es": "La energía",
+    "frase_sh": "Kakánt",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5938",
+    "frase_es": "La enfermedad",
+    "frase_sh": "Sunkúr",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5939",
+    "frase_es": "El enlatado",
+    "frase_sh": "Jiruna enkékma",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5940",
+    "frase_es": "La estructura",
+    "frase_sh": "Tesarmári",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5941",
+    "frase_es": "La familia",
+    "frase_sh": "Ii shuar",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5942",
+    "frase_es": "La feria",
+    "frase_sh": "Mashi súramu",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5943",
+    "frase_es": "El formador",
+    "frase_sh": "Najánain",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5944",
+    "frase_es": "La frecuencia",
+    "frase_sh": "Tuke",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5945",
+    "frase_es": "La fruta",
+    "frase_sh": "Yuránk",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5946",
+    "frase_es": "La fuente",
+    "frase_sh": "Jiinmari",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5947",
+    "frase_es": "El gráfico",
+    "frase_sh": "Nakúmkamu",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5948",
+    "frase_es": "El grano",
+    "frase_sh": "Miik",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5949",
+    "frase_es": "La grasa",
+    "frase_sh": "Mácha",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5950",
+    "frase_es": "El grupo",
+    "frase_sh": "Iruuntramu",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5951",
+    "frase_es": "La guía",
+    "frase_sh": "Jintiin",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5952",
+    "frase_es": "El guineo",
+    "frase_sh": "Inkiram",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5953",
+    "frase_es": "El helado",
+    "frase_sh": "Micha yumín",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5954",
+    "frase_es": "La herida",
+    "frase_sh": "Akámakma",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5955",
+    "frase_es": "La hermana",
+    "frase_sh": "Umar",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5956",
+    "frase_es": "La hija",
+    "frase_sh": "Nawant",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5957",
+    "frase_es": "El hijo",
+    "frase_sh": "Uchir",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5958",
+    "frase_es": "La historieta",
+    "frase_sh": "Sutamkech aujmattai",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5959",
+    "frase_es": "La hoja comestible",
+    "frase_sh": "Yútai núka",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5960",
+    "frase_es": "La hoja verde",
+    "frase_sh": "Saménkma núka",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5961",
+    "frase_es": "El hongo",
+    "frase_sh": "Esemp",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5962",
+    "frase_es": "El hongo",
+    "frase_sh": "mumkurua",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5963",
+    "frase_es": "El hongo",
+    "frase_sh": "áchim",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5964",
+    "frase_es": "El hueso",
+    "frase_sh": "Ukunch",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5965",
+    "frase_es": "La investigación",
+    "frase_sh": "Eájai",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5966",
+    "frase_es": "El lácteo",
+    "frase_sh": "Muntsujai iwiárkamu",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5967",
+    "frase_es": "La laguna",
+    "frase_sh": "Antumiank",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5968",
+    "frase_es": "La manteca",
+    "frase_sh": "Kúntut",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5969",
+    "frase_es": "El material",
+    "frase_sh": "Imiátkin",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5970",
+    "frase_es": "La mayoría",
+    "frase_sh": "Untsuri",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5971",
+    "frase_es": "El mercado",
+    "frase_sh": "Túke surutai",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5972",
+    "frase_es": "La merienda",
+    "frase_sh": "Kiárai Yurumtai",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5973",
+    "frase_es": "El mes",
+    "frase_sh": "Nántu",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5974",
+    "frase_es": "El mineral",
+    "frase_sh": "yáwi",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5975",
+    "frase_es": "El músculo",
+    "frase_sh": "Namánk",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5976",
+    "frase_es": "La naranja",
+    "frase_sh": "Naránk",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5977",
+    "frase_es": "El nivel",
+    "frase_sh": "Uwí",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5978",
+    "frase_es": "El nutriente",
+    "frase_sh": "Yurumka ímiantri",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5979",
+    "frase_es": "El objeto",
+    "frase_sh": "Imiatkin",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5980",
+    "frase_es": "El órgano",
+    "frase_sh": "Iyashi umuchin",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5981",
+    "frase_es": "El origen",
+    "frase_sh": "Akiiniamu",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5982",
+    "frase_es": "El palmito",
+    "frase_sh": "Ijiu",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5983",
+    "frase_es": "La parte",
+    "frase_sh": "Niniu",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5984",
+    "frase_es": "La pecera",
+    "frase_sh": "Namák napampaatai",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5985",
+    "frase_es": "El trabajo",
+    "frase_sh": "Takát",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5986",
+    "frase_es": "El trozo",
+    "frase_sh": "Puúkma",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5987",
+    "frase_es": "El tuyo",
+    "frase_sh": "Kénke",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5988",
+    "frase_es": "El pescado",
+    "frase_sh": "Namák",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5989",
+    "frase_es": "La vaina",
+    "frase_sh": "Miikia neré",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5990",
+    "frase_es": "El pescado enlatado",
+    "frase_sh": "Namák jiruna enkékma",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5991",
+    "frase_es": "El valor",
+    "frase_sh": "Ímiantri",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5992",
+    "frase_es": "El valor nutritivo",
+    "frase_sh": "Yurúmka ímiantri",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5993",
+    "frase_es": "La variedad",
+    "frase_sh": "Kanármari",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5994",
+    "frase_es": "La planificación",
+    "frase_sh": "Takát iwiáramu",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5995",
+    "frase_es": "El vegetal",
+    "frase_sh": "Núpa",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5996",
+    "frase_es": "El plátano",
+    "frase_sh": "Chámpiar",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5997",
+    "frase_es": "El plátano",
+    "frase_sh": "paantam",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5998",
+    "frase_es": "La venta",
+    "frase_sh": "Súramu",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "5999",
+    "frase_es": "La verdura",
+    "frase_sh": "Eep aínia",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6000",
+    "frase_es": "El plazo",
+    "frase_sh": "Aanktuamu",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6001",
+    "frase_es": "La vitamina",
+    "frase_sh": "Ayámkartin",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6002",
+    "frase_es": "El pollo",
+    "frase_sh": "Shiámp",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6003",
+    "frase_es": "El poroto",
+    "frase_sh": "Miik",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6004",
+    "frase_es": "El zapote",
+    "frase_sh": "Sapút",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6005",
+    "frase_es": "La pregunta",
+    "frase_sh": "Aníntramu",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6006",
+    "frase_es": "El propósito específico",
+    "frase_sh": "Anentáimturma",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6007",
+    "frase_es": "El propósito específico",
+    "frase_sh": "wárik ejékatin",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6008",
+    "frase_es": "Almacenar",
+    "frase_sh": "Irurtin",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6009",
+    "frase_es": "Aplicar",
+    "frase_sh": "Apújtustin",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6010",
+    "frase_es": "El protector",
+    "frase_sh": "Ayámra",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6011",
+    "frase_es": "Asistir",
+    "frase_sh": "Pachiintkiatin",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6012",
+    "frase_es": "La raíz",
+    "frase_sh": "Kankáp",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6013",
+    "frase_es": "Comer",
+    "frase_sh": "Yurumátin",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6014",
+    "frase_es": "La razón",
+    "frase_sh": "Nékasen",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6015",
+    "frase_es": "Compartir",
+    "frase_sh": "Iruuntukin",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6016",
+    "frase_es": "La realización",
+    "frase_sh": "Najánatin",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6017",
+    "frase_es": "La receta",
+    "frase_sh": "Umikitin aarma",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6018",
+    "frase_es": "Conseguir",
+    "frase_sh": "Waínkiatin",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6019",
+    "frase_es": "Consumir",
+    "frase_sh": "Yuátin",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6020",
+    "frase_es": "La reparación",
+    "frase_sh": "Iwiarma",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6021",
+    "frase_es": "Contener",
+    "frase_sh": "Emétatin",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6022",
+    "frase_es": "La res",
+    "frase_sh": "Waakma",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6023",
+    "frase_es": "El resultado",
+    "frase_sh": "Jiikmia",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6024",
+    "frase_es": "La revista",
+    "frase_sh": "Aujtai Papí",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6025",
+    "frase_es": "El riachuelo",
+    "frase_sh": "Ashiints",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6026",
+    "frase_es": "Decidir",
+    "frase_sh": "Ai tama",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6027",
+    "frase_es": "El río",
+    "frase_sh": "Kanús",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6028",
+    "frase_es": "Desarrollar",
+    "frase_sh": "Najánatin",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6029",
+    "frase_es": "Desarrollar",
+    "frase_sh": "eemkatin",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6030",
+    "frase_es": "El rostro",
+    "frase_sh": "Yapi",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6031",
+    "frase_es": "La rotación",
+    "frase_sh": "Tentémm",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6032",
+    "frase_es": "Destinar",
+    "frase_sh": "Ikiúrsatin",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6033",
+    "frase_es": "La semana",
+    "frase_sh": "Atsákamu",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6034",
+    "frase_es": "La sugerencia",
+    "frase_sh": "Chicharma",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6035",
+    "frase_es": "Efectuar",
+    "frase_sh": "Najánatin",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6036",
+    "frase_es": "La tarjeta",
+    "frase_sh": "Papí tsupikma",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6037",
+    "frase_es": "Enfermar",
+    "frase_sh": "Jaámu",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6038",
+    "frase_es": "La taza",
+    "frase_sh": "Tsápa",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6039",
+    "frase_es": "El tema",
+    "frase_sh": "Aújmatpatin",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6040",
+    "frase_es": "El terreno",
+    "frase_sh": "Núnka",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6041",
+    "frase_es": "La tienda",
+    "frase_sh": "Surutai jea",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6042",
+    "frase_es": "Estudiar",
+    "frase_sh": "Unuiumiartin",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6043",
+    "frase_es": "El tipo",
+    "frase_sh": "Au",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6044",
+    "frase_es": "Existir",
+    "frase_sh": "Atin",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6045",
+    "frase_es": "Faltar",
+    "frase_sh": "Taastin",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6046",
+    "frase_es": "Formar",
+    "frase_sh": "Najánartin",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6047",
+    "frase_es": "Formar",
+    "frase_sh": "pekáktin",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6048",
+    "frase_es": "Chatarra",
+    "frase_sh": "Imiantcha",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6049",
+    "frase_es": "Chatarra",
+    "frase_sh": "mamuru",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6050",
+    "frase_es": "Formular",
+    "frase_sh": "Paant",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6051",
+    "frase_es": "Formular",
+    "frase_sh": "nékasenk",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6052",
+    "frase_es": "Gastar",
+    "frase_sh": "Kuit",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6053",
+    "frase_es": "Gastar",
+    "frase_sh": "amuámu",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6054",
+    "frase_es": "Completo",
+    "frase_sh": "Mashi",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6055",
+    "frase_es": "Deficiente",
+    "frase_sh": "Pénkercha",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6056",
+    "frase_es": "Desnutrido",
+    "frase_sh": "Pénker Yurumcha",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6057",
+    "frase_es": "Desnutrido",
+    "frase_sh": "Watsaru",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6058",
+    "frase_es": "Llamar",
+    "frase_sh": "Untsúktin",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6059",
+    "frase_es": "Llenar",
+    "frase_sh": "Aímkiatin",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6060",
+    "frase_es": "Diversificado",
+    "frase_sh": "Akantramu",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6061",
+    "frase_es": "Mejorar",
+    "frase_sh": "Maak",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6062",
+    "frase_es": "Dulce",
+    "frase_sh": "Yumín wekamsatin",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6063",
+    "frase_es": "Necesitar",
+    "frase_sh": "Utsúmtin",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6064",
+    "frase_es": "Escolar",
+    "frase_sh": "Unuímia",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6065",
+    "frase_es": "Excedente",
+    "frase_sh": "Tiáru",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6066",
+    "frase_es": "Obtener",
+    "frase_sh": "Wáintkiatin",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6067",
+    "frase_es": "Flaco",
+    "frase_sh": "Watsáru",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6068",
+    "frase_es": "Pensar",
+    "frase_sh": "Enetaimratín",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6069",
+    "frase_es": "Poder",
+    "frase_sh": "Jeámu",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6070",
+    "frase_es": "Largo",
+    "frase_sh": "Ésaram",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6071",
+    "frase_es": "Preparar",
+    "frase_sh": "Iiwiáratin",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6072",
+    "frase_es": "Incorporado",
+    "frase_sh": "Enkekma",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6073",
+    "frase_es": "Proteger",
+    "frase_sh": "Ayamrúktin",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6074",
+    "frase_es": "La mayoría",
+    "frase_sh": "Máshiniu",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6075",
+    "frase_es": "Quitar",
+    "frase_sh": "Atántkitin",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6076",
+    "frase_es": "Mejor",
+    "frase_sh": "Shir",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6077",
+    "frase_es": "Nuevo",
+    "frase_sh": "Yámaram",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6078",
+    "frase_es": "Reparar",
+    "frase_sh": "Iwiáratin",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6079",
+    "frase_es": "Pálido",
+    "frase_sh": "Putsurú",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6080",
+    "frase_es": "Retornar",
+    "frase_sh": "Wakétkitin",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6081",
+    "frase_es": "Pobre",
+    "frase_sh": "Waitnenmai",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6082",
+    "frase_es": "Pobre",
+    "frase_sh": "kuítrincha",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6083",
+    "frase_es": "Salir",
+    "frase_sh": "Jiíntkitin",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6084",
+    "frase_es": "Primero",
+    "frase_sh": "Emka",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6085",
+    "frase_es": "Sentar",
+    "frase_sh": "Pujústin",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6086",
+    "frase_es": "Raro",
+    "frase_sh": "Aushátka",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6087",
+    "frase_es": "Responsable",
+    "frase_sh": "Pénker takákma",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6088",
+    "frase_es": "Sexto",
+    "frase_sh": "Pátatka ujúk",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6089",
+    "frase_es": "Vivir",
+    "frase_sh": "Iwiákma",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6090",
+    "frase_es": "Actual",
+    "frase_sh": "Yamaiya",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6091",
+    "frase_es": "Adecuado",
+    "frase_sh": "Nékasenk",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6092",
+    "frase_es": "Ayer",
+    "frase_sh": "Yaú",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6093",
+    "frase_es": "Alguno",
+    "frase_sh": "Wárumchik",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6094",
+    "frase_es": "A través de",
+    "frase_sh": "Juní",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6095",
+    "frase_es": "Alimentaria",
+    "frase_sh": "Urúmkamu",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6096",
+    "frase_es": "Cómo",
+    "frase_sh": "Itiurá",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6097",
+    "frase_es": "Asociado",
+    "frase_sh": "Irúrma",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6098",
+    "frase_es": "Cuándo",
+    "frase_sh": "Urutái",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6099",
+    "frase_es": "Balanceado",
+    "frase_sh": "Métekrak",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6100",
+    "frase_es": "Conjuntamente",
+    "frase_sh": "Métekrak",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6101",
+    "frase_es": "Bilingüe",
+    "frase_sh": "Imiará chichama néka",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6102",
+    "frase_es": "Constantemente",
+    "frase_sh": "Tuke",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6103",
+    "frase_es": "Dónde",
+    "frase_sh": "Tuimp",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6104",
+    "frase_es": "Excepto",
+    "frase_sh": "Niinchu",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6105",
+    "frase_es": "Mi",
+    "frase_sh": "Wínia",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6106",
+    "frase_es": "Hoy",
+    "frase_sh": "Yamái",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6107",
+    "frase_es": "Más",
+    "frase_sh": "Atákesh",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6108",
+    "frase_es": "Qué",
+    "frase_sh": "Warímp",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6109",
+    "frase_es": "Mucho",
+    "frase_sh": "Núkap",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6110",
+    "frase_es": "Quién",
+    "frase_sh": "Yaa",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6111",
+    "frase_es": "Muy",
+    "frase_sh": "Tii",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6112",
+    "frase_es": "Su",
+    "frase_sh": "Niiniu",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6113",
+    "frase_es": "Ningún",
+    "frase_sh": "Pénke",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6114",
+    "frase_es": "Ningún",
+    "frase_sh": "atsa",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6115",
+    "frase_es": "Otro",
+    "frase_sh": "Tikich",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6116",
+    "frase_es": "Por qué",
+    "frase_sh": "Urúkamtai",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6117",
+    "frase_es": "Para",
+    "frase_sh": "Itiurkátniua",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6118",
+    "frase_es": "Para qué",
+    "frase_sh": "Waríniua",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6119",
+    "frase_es": "Contra",
+    "frase_sh": "Kajeramu",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6120",
+    "frase_es": "Solamente",
+    "frase_sh": "Ayatek",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6121",
+    "frase_es": "En",
+    "frase_sh": "Jui",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6122",
+    "frase_es": "Siguiente",
+    "frase_sh": "Pátatka",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6123",
+    "frase_es": "Hasta",
+    "frase_sh": "Tiímianai",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
+  },
+  {
+    "ID": "6124",
+    "frase_es": "Solo",
+    "frase_sh": "Ninki",
+    "dominio": "Médico",
+    "fecha": "11-07-2026",
+    "origen": "SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación"
   }
 ]

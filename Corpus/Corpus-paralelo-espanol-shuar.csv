@@ -5761,3 +5761,365 @@ ID,frase_es,frase_sh,dominio,fecha,origen
 5760,Hermano,Yatsur,Educativo,06-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
 5761,Perro,Yawa,Educativo,06-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
 5762,Restaurant,Yurumtai,Educativo,06-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5763,Mis Alimentos,Winia Yurumkar,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5764,"Amiguito ¿Quieres ser saludable? Abre mis páginas, conóceme bien y crecerás sano y fuerte","Amikchiru, jachaa ataj takumka, uratka iírsam unuimiaram kakaram tsakartá",Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5765,Tú eres mi amigo y quiero compartir contigo mis secretos,Amikiur asákmin wi nekamun jintintiattajme,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5766,"Te enseñaré a reconocer y preparar los mejores alimentos para que seas más fuerte, inteligente, alegre y sano","Kakaram, nékau, warawarat nuyá jachaa aminiam tusan yurumak pénker nekaá iwiaratniun jintintiattajme",Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5767,¿Por qué comemos?,Urúkamtai yurúmaj,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5768,¿Qué alimentos debemos consumir?,Warí yurumká yuátniuitiaj,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5769,El abastecimiento de alimentos,Yurumák tuyá juuktiniaitiaj,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5770,Las prácticas alimentarias de ayer y hoy,Yamaiya nuyá yaúnchuya yurumak,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5771,"Diversificación en la producción, distribución y consumo",Eténmara arákmara yurúmma,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5772,¿Qué sucede cuando nos alimentamos?,Pénker yurumcháktish uruktain,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5773,objetivos generales,anentáimturma urumai ejékatin,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5774,objetivos específicos,anentáimturma wárik jékatin,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5775,recuerdo e investigo,áwakeasnak unuimiatjai,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5776,Leo la siguiente historia,Sútarach aújmattsa aarma aújeajai,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5777,Escribo las respuestas en mi cuaderno,Aíkman paiírui aajai,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5778,las fuentes de los alimentos,yurúmak iruntai,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5779,mi comida,winia yurumkar,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5780,La comida de ayer,Yaú yurímamu,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5781,desayuno,káshik yurúmeamu,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5782,almuerzo,tutupin yurúmeamu,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5783,merienda,kiárai yurúmeamu,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5784,Yuca,Mama,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5785,Plátano,Paántam,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5786,Plátano,champiár,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5787,Carne,Namánk,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5788,Cacería,Kúntin,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5789,Palmito,Ijiu,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5790,Ayampaco,Yunkúrak,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5791,Chicha,Nijiamánch,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5792,Arroz,Arús,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5793,Fideo,Juitir,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5794,Maduro,Tsamá,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5795,Tuyo,Kenké,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5796,Aves silvestres,Kampúnniunmaya nanaptin,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5797,Aves de corral,Jeáya nanaptin,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5798,Poroto,Miik,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5799,Maní,Núse,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5800,Oritos,Mejéch,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5801,Guineos,Inkiram,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5802,Huevos,Nújint,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5803,Enlatados,Jiruna enkékma,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5804,mi nuevo conocimiento,ámaram unuimiatmar,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5805,¿por qué comemos?,urúkamtaiyurumaj,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5806,No comemos sólo para quitar el hambre o llenar el estómago,Ejémarar tsuka emenkaktai tusarkia yurúmtsuii,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5807,Comemos todos los días para,Túke tsáwant yurumji,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5808,Mantener nuestro cuerpo,Ayash tunámarain tsar,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5809,Estar sanos y fuertes,"Sunkurmakcha, kakáram átai tsar",Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5810,Trabajar,Takakmastai tsar,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5811,Estudiar,Unuimiartai tsar,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5812,Jugar,Nakuurustai tsa,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5813,Pensar,Anentáimsatai tsar,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5814,¿qué alimentos debemos consumir?,warí yurumká yuátniuitiaj,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5815,Los alimentos por sus contenidos se clasifican en cuatro tipos,Yurumkaka aíntiuk akantramuiti,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5816,Clasificación de los alimentos,Yurumká akantramuri,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5817,carbohidratos,ikiakaakratin,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5818,proteínas,tsakatai,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5819,leche materna,nuku muntsuri,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5820,vitaminas y minerales,ayamkartin,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5821,grasas,kakaatai,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5822,¿Para qué sirven estos alimentos?,Juu yurumak warinma yaimin aínia,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5823,¿Qué es la leche materna?,Nua muntsuriisha warimpiait,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5824,fuentes de abastecimiento de los alimentos,yurúmak tuyá juuktiniaitiaj,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5825,¿de dónde se obtienen los alimentos?,yurúmak tuyam juutain,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5826,Los alimentos se obtienen de,Yurumkaka juyá juuntainti,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5827,Bosque,Kampúntin,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5828,"Ríos, riachuelo, charcos, lagunas","Entsáya, ashintsnmaya, kuchanmaya, antumknuimia",Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5829,Mercado,Túke surutainmaya,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5830,Huertas,Ajánmaya,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5831,Aves,Chinki,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5832,Animales,Yayásma,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5833,Vegetales,Yútai nuka,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5834,Otros,Tikich,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5835,rios,entsa,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5836,riachuelos,ashiints,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5837,charcos,kucha,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5838,lagunas,antumiank,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5839,huerta,aja,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5840,mercado,tuke surutai,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5841,las prácticas alimentarias de ayer y de hoy,yaúnchu nuyá yamaiya yurumak,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5842,la alimentación de nuestros antepasados,ii uuntrí yurumtairi,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5843,nuestra alimentación actual,yamaiya yurumak,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5844,"Los niños Y niñas para estar sanos, crecer, jugar y estudiar bien deben comer tres veces al día alimentos de los cuatro grupos","Uchikia penker tsakár, warawarat unuimiartajsa tuke tsawant menaintiu vurumatniuiti",Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5845,Leo la siguiente historia,Sútarach aújmatsa aarman aújeajai,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5846,"Arutam, un alumno del sexto nivel del Centro Educativo Comunitario (CEC) de Pampants, salió la ciudad de Macas y se admiró de la variedad de cosas y objetos que observaba, decidió comprar algunos de ellos con el dinero que le entregó su papá: arroz, fideos, pescado enlatado, azúcar, caramelos, chitos y bolos","Arutam paampaantsanmaya unuimiatai Chiriapnum ujuk uwi pujá Macas jiintkiimiatkin imiatkin untsuri íruni wainiak, nii apari kuit susámujai arúsan",Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5847,"Al retornar a su casa, le entregó a su mamá arroz, azúcar, fideo y pescado enlatado para que los preparará para comer con la familia","Juitiiran, namák jiruna enkékman, mishkin, nuyá michan sumar jeen waketki nukurín susamiayi iniarkamtai nii shuarjai yurúmattsa",Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5848,"Compartió los caramelos, chitos, galletas etc. con sus hermanos y otra parte con sus compañeros en la escuela","Miishkinkia, tantanka ni yachin umáijiai ajamsarmai turá unuimiatainmash nii aín ajamsarmai",Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5849,"Hoy existen nuevas comidas como: arroz, fideo, pescado enlatado, azúcar, dulces (caramelos) y helados","Yamaikia yámaram yurumkash juu írunui arús, juitiir, namák jíruna enkékma yumín, miíshik, nuyá micha",Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5850,"La mayoría de estas comidas contiene solamente carbohidratos, excepto pescado enlatado que es proteína","Juu yurumkaka ayatik ikiakaakratin ainiawai, tura namák tsakatainti",Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5851,"Los dulces, galletas, helados, chitos se llaman","Miishik, tanta, micha, chitos ainia auka",Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5852,comida chatarra,ímiancha yurumak aíniawai,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5853,la dieta actual es más pobre en nutrientes que la dieta de nuestros antepasados y la comida chatarra no tiene ningún valor nutritivo,"yamaiya yurumkaka, yaunchuyajainkia, nekas ímiatchaiti tura imiantcha yurumkaka ii ayashinkia yayátsui",Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5854,"diversificación de la producción, distribución y consumo",eténmarar arákmakar yurumma,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5855,mejoremos nuestra dieta,ii yurumkari iwiarkatai,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5856,¿cómo?,itiúra,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5857,Realizando cultivos diversificados en el huerto de la casa y en el de la escuela,Ii ajarin nuyá unuimiatainiam úmamkesar arakmaktai,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5858,A través de cultivos asociados,Irúrar arakmakar,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5859,Efectuando la rotación de cultivos en el terreno,Tikich arák arar yapájia ewékamma,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5860,una comida balanceada,penké yurumak,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5861,"¿qué, quién y cómo?","warí, yaa, itiurak",Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5862,papá y mamá son los responsables de conseguir,preparar los alimentos | apa nukujai yurumkanka juukar iniarkatin aíniawai,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5863,Ejemplos de una comida balanceada,Penké yurumak iwiaramu iniákmamu,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5864,"Chicha, un ayampaco de pollo con hojas de pelma o yuca y una naranja","Nijiamánch, shiámpa nakanké aamjiai tanaka yunkunamu nuyá naránk",Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5865,"Un huevo, dos trozos de yuca, palmito, un zapote","Nujintjai jimiará mama nakákma, Ijiu nuyá sapút",Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5866,"Una taza de maní, 2 tazas de maíz, hojas verdes y papachina","Núse tikichik natíp, shaa jimiará, eep nuyá papachina",Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5867,apliquemos nuestros conocimientos,ii nekaamuri iniakmastai,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5868,comparto con mi familia la comunidad,wii shuarjal nuyá írutkamurjai takákmajai,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5869,anent para cosechar,arak jawakur anentrutai,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5870,Maíz tierno como en la noche oscura el maíz va cargando mientras como choclo rápidamente el maíz creció,Shaa kuira yuwajaitia kashi kintiamasankeku shaa akatar waniáraya shaa kuira yuwayátsana kashinink kashininkia shaa akatar waniárayi,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5871,evaluación,iik iniak mamma,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5872,Mis Alimentos,Winia Yurúmkar,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5873,El abastecimiento,Tuyá juutain,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5874,El aceite,Macha,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5875,La admiración,Sapíjmiashim,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5876,El alimento,Yurúrak,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5877,La alimentación,Yurúmeamu,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5878,El almacén,Surútai jea,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5879,El almuerzo,Tutúpin yurúmeamu,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5880,El alumno,Unuimia,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5881,El animal,Yayásma,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5882,El antepasado,Yaúnchuya uunt,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5883,El arroz,Arús,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5884,El ave,Chínki,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5885,El ave de corral,Jeaya nanáptin,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5886,El ave silvestre,Kampúnniunmaya,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5887,El ave silvestre,nanáptin,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5888,El ave silvestre,arákmakma,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5889,El ayampaco,Yunkúrak,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5890,El azúcar,Yumín,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5891,El bebé,Uchi kuírach,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5892,La cacería,Eámma,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5893,El cajón,Peenk,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5894,El concurso,Nekápmamma,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5895,El criadero,Tsakátmatai,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5896,El criadero,Napampaatai,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5897,El criadero,apámpaatai,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5898,El bocadito,Apásma,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5899,El bolo,Micha yumin,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5900,El bosque,Kampuntín,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5901,El cacao,Kakáu,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5902,El calendario,Tsawán namanké,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5903,El caramelo,Yumín,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5904,El carbohidrato,Ikiakraakratin,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5905,La carne,Namánk,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5906,La carne de res,Waaka namanké,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5907,El charco,Kucha,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5908,La chicha,Nijiamánch,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5909,El choclo,Shaa Jeá,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5910,La chonta,Uwí,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5911,La ciudad,Aénts matsátma,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5912,La clase,Unuímiamu,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5913,La clasificación,Akántramu,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5914,La clasificación,nankaámakmia,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5915,La comida balanceada,Penké Yurumak,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5916,La comida chatarra,Tímiancha Yurumak,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5917,El compañero,Aír,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5918,La construcción,Nájanma,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5919,El consumo,Yúamu,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5920,La cosa,Imiatkin,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5921,El cuaderno,Aarai papí,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5922,El cultivo,Arakmakma,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5923,El cultivo asociado,Eténmara arákmakma,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5924,El cultivo diversificado,Ankant ankant,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5925,El desayuno,Káshik yurumeamu,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5926,El día,Tsáwant,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5927,El diario,Tuke tsawant,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5928,La dieta,Nuke yuátin,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5929,El dinero,Kuit,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5930,La distribución,Ankán ankant suamu,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5931,La diversificación,Abkant ankant,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5932,El dulce,yumín,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5933,La edad,Uwiiri,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5934,La educación,Unumiat,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5935,El ejemplo,Iniákmasma,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5936,El energético,Ikiakaákratin,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5937,La energía,Kakánt,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5938,La enfermedad,Sunkúr,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5939,El enlatado,Jiruna enkékma,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5940,La estructura,Tesarmári,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5941,La familia,Ii shuar,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5942,La feria,Mashi súramu,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5943,El formador,Najánain,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5944,La frecuencia,Tuke,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5945,La fruta,Yuránk,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5946,La fuente,Jiinmari,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5947,El gráfico,Nakúmkamu,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5948,El grano,Miik,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5949,La grasa,Mácha,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5950,El grupo,Iruuntramu,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5951,La guía,Jintiin,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5952,El guineo,Inkiram,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5953,El helado,Micha yumín,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5954,La herida,Akámakma,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5955,La hermana,Umar,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5956,La hija,Nawant,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5957,El hijo,Uchir,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5958,La historieta,Sutamkech aujmattai,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5959,La hoja comestible,Yútai núka,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5960,La hoja verde,Saménkma núka,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5961,El hongo,Esemp,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5962,El hongo,mumkurua,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5963,El hongo,áchim,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5964,El hueso,Ukunch,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5965,La investigación,Eájai,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5966,El lácteo,Muntsujai iwiárkamu,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5967,La laguna,Antumiank,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5968,La manteca,Kúntut,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5969,El material,Imiátkin,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5970,La mayoría,Untsuri,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5971,El mercado,Túke surutai,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5972,La merienda,Kiárai Yurumtai,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5973,El mes,Nántu,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5974,El mineral,yáwi,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5975,El músculo,Namánk,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5976,La naranja,Naránk,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5977,El nivel,Uwí,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5978,El nutriente,Yurumka ímiantri,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5979,El objeto,Imiatkin,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5980,El órgano,Iyashi umuchin,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5981,El origen,Akiiniamu,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5982,El palmito,Ijiu,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5983,La parte,Niniu,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5984,La pecera,Namák napampaatai,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5985,El trabajo,Takát,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5986,El trozo,Puúkma,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5987,El tuyo,Kénke,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5988,El pescado,Namák,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5989,La vaina,Miikia neré,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5990,El pescado enlatado,Namák jiruna enkékma,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5991,El valor,Ímiantri,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5992,El valor nutritivo,Yurúmka ímiantri,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5993,La variedad,Kanármari,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5994,La planificación,Takát iwiáramu,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5995,El vegetal,Núpa,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5996,El plátano,Chámpiar,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5997,El plátano,paantam,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5998,La venta,Súramu,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+5999,La verdura,Eep aínia,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6000,El plazo,Aanktuamu,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6001,La vitamina,Ayámkartin,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6002,El pollo,Shiámp,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6003,El poroto,Miik,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6004,El zapote,Sapút,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6005,La pregunta,Aníntramu,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6006,El propósito específico,Anentáimturma,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6007,El propósito específico,wárik ejékatin,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6008,Almacenar,Irurtin,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6009,Aplicar,Apújtustin,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6010,El protector,Ayámra,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6011,Asistir,Pachiintkiatin,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6012,La raíz,Kankáp,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6013,Comer,Yurumátin,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6014,La razón,Nékasen,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6015,Compartir,Iruuntukin,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6016,La realización,Najánatin,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6017,La receta,Umikitin aarma,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6018,Conseguir,Waínkiatin,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6019,Consumir,Yuátin,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6020,La reparación,Iwiarma,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6021,Contener,Emétatin,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6022,La res,Waakma,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6023,El resultado,Jiikmia,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6024,La revista,Aujtai Papí,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6025,El riachuelo,Ashiints,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6026,Decidir,Ai tama,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6027,El río,Kanús,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6028,Desarrollar,Najánatin,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6029,Desarrollar,eemkatin,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6030,El rostro,Yapi,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6031,La rotación,Tentémm,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6032,Destinar,Ikiúrsatin,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6033,La semana,Atsákamu,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6034,La sugerencia,Chicharma,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6035,Efectuar,Najánatin,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6036,La tarjeta,Papí tsupikma,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6037,Enfermar,Jaámu,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6038,La taza,Tsápa,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6039,El tema,Aújmatpatin,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6040,El terreno,Núnka,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6041,La tienda,Surutai jea,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6042,Estudiar,Unuiumiartin,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6043,El tipo,Au,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6044,Existir,Atin,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6045,Faltar,Taastin,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6046,Formar,Najánartin,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6047,Formar,pekáktin,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6048,Chatarra,Imiantcha,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6049,Chatarra,mamuru,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6050,Formular,Paant,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6051,Formular,nékasenk,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6052,Gastar,Kuit,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6053,Gastar,amuámu,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6054,Completo,Mashi,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6055,Deficiente,Pénkercha,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6056,Desnutrido,Pénker Yurumcha,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6057,Desnutrido,Watsaru,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6058,Llamar,Untsúktin,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6059,Llenar,Aímkiatin,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6060,Diversificado,Akantramu,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6061,Mejorar,Maak,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6062,Dulce,Yumín wekamsatin,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6063,Necesitar,Utsúmtin,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6064,Escolar,Unuímia,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6065,Excedente,Tiáru,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6066,Obtener,Wáintkiatin,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6067,Flaco,Watsáru,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6068,Pensar,Enetaimratín,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6069,Poder,Jeámu,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6070,Largo,Ésaram,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6071,Preparar,Iiwiáratin,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6072,Incorporado,Enkekma,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6073,Proteger,Ayamrúktin,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6074,La mayoría,Máshiniu,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6075,Quitar,Atántkitin,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6076,Mejor,Shir,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6077,Nuevo,Yámaram,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6078,Reparar,Iwiáratin,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6079,Pálido,Putsurú,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6080,Retornar,Wakétkitin,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6081,Pobre,Waitnenmai,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6082,Pobre,kuítrincha,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6083,Salir,Jiíntkitin,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6084,Primero,Emka,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6085,Sentar,Pujústin,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6086,Raro,Aushátka,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6087,Responsable,Pénker takákma,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6088,Sexto,Pátatka ujúk,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6089,Vivir,Iwiákma,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6090,Actual,Yamaiya,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6091,Adecuado,Nékasenk,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6092,Ayer,Yaú,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6093,Alguno,Wárumchik,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6094,A través de,Juní,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6095,Alimentaria,Urúmkamu,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6096,Cómo,Itiurá,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6097,Asociado,Irúrma,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6098,Cuándo,Urutái,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6099,Balanceado,Métekrak,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6100,Conjuntamente,Métekrak,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6101,Bilingüe,Imiará chichama néka,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6102,Constantemente,Tuke,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6103,Dónde,Tuimp,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6104,Excepto,Niinchu,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6105,Mi,Wínia,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6106,Hoy,Yamái,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6107,Más,Atákesh,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6108,Qué,Warímp,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6109,Mucho,Núkap,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6110,Quién,Yaa,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6111,Muy,Tii,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6112,Su,Niiniu,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6113,Ningún,Pénke,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6114,Ningún,atsa,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6115,Otro,Tikich,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6116,Por qué,Urúkamtai,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6117,Para,Itiurkátniua,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6118,Para qué,Waríniua,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6119,Contra,Kajeramu,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6120,Solamente,Ayatek,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6121,En,Jui,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6122,Siguiente,Pátatka,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6123,Hasta,Tiímianai,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
+6124,Solo,Ninki,Médico,11-07-2026,SEIBE - Secretaría de Educación Intercultural Bilingüe y la Etnoeducación
