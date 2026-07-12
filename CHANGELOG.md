@@ -1,4 +1,4 @@
-\# Changelog
+# Changelog
 
 
 
@@ -8,9 +8,9 @@ Los cambios son posteriores a la primera subida del corpus.
 
 
 
-\## v1.1 - 2026-07-11
+## v1.1 - 2026-07-11
 
-\### Agregado
+### Agregado
 
-\- 364 nuevos pares alineados del dominio médico
+- 364 nuevos pares alineados del dominio médico
 
