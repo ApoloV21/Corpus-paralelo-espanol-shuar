@@ -211,3 +211,47 @@ Escuela Superior Politécnica de Chimborazo
 Sede Morona Santiago
 
 2026
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "Corpus Paralelo Español-Shuar",
+  "description": "Un corpus paralelo español-shuar construido mediante técnicas de ingeniería de datos para aplicaciones de Procesamiento del Lenguaje Natural (PLN) en lenguas indígenas de bajo recurso.",
+  "url": "https://github.com",
+  "identifier": "https://doi.org",
+  "keywords": [
+    "Shuar",
+    "Español",
+    "Parallel Corpus",
+    "NLP",
+    "Machine Learning",
+    "Ecuador",
+    "Morona Santiago"
+  ],
+  "creator": {
+    "@type": "Person",
+    "name": "Ares Apolo Vega Chiriap",
+    "affiliation": {
+      "@type": "Organization",
+      "name": "Escuela Superior Politécnica de Chimborazo"
+    }
+  },
+  "distribution": [
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "text/csv",
+      "contentUrl": "https://github.com/tree/main/Corpus"
+    },
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "application/json",
+      "contentUrl": "https://github.com/tree/main/Corpus"
+    }
+  ],
+  "temporalCoverage": "2026",
+  "spatialCoverage": "Ecuador, Morona Santiago",
+  "license": "https://creativecommons.org"
+}
+</script>
