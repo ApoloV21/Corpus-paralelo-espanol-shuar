@@ -1,4 +1,4 @@
-# Corpus Paralelo Español–Shuar
+# Corpus Paralelo Español-Shuar
 
 Repositorio oficial del proyecto de titulación:
 
