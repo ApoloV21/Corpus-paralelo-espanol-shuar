@@ -212,7 +212,7 @@ Sede Morona Santiago
 
 2026
 
-
+<!--
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -255,3 +255,4 @@ Sede Morona Santiago
   "license": "https://creativecommons.org"
 }
 </script>
+-->
