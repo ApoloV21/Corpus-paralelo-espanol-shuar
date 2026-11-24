@@ -21,8 +21,8 @@ El corpus contiene pares de oraciones alineadas (1:1), extraídos de documentos 
 | Idiomas | Español (es), Shuar (jiv) |
 | Licencia | CC BY 4.0 |
 | DOI | https://doi.org/10.5281/zenodo.18483848 |
-| Versión | 1.0 |
-| Última actualización | Julio 2026 |
+| Versión | 1.1.1 |
+| Última actualización | Noviembre 2026 |
 
 ---
 
