@@ -22,7 +22,7 @@ Construir un corpus paralelo español–shuar mediante técnicas de ingeniería 
 
 ## DOI
 
-https://doi.org/10.5281/zenodo.18483848
+https://doi.org/10.5281/zenodo.18483847
 
 ---
 
@@ -45,10 +45,10 @@ https://doi.org/10.5281/zenodo.18483848
 
 | Métrica | Valor |
 |----------|------:|
-| Documentos utilizados | 24 |
-| Pares alineados | 5762 |
-| Tokens (Español) | 35976 |
-| Tokens (Shuar) | 22704 |
+| Documentos utilizados | 25 |
+| Pares alineados | 6124 |
+| Tokens (Español) | 36965 |
+| Tokens (Shuar) | 23381 |
 | Tasa de alineación | >90 % |
 
 
@@ -181,7 +181,7 @@ Si utiliza este corpus en una investigación, cite el recurso de la siguiente ma
   title = {Corpus Paralelo Español--Shuar},
   year = {2026},
   publisher = {Escuela Superior Politécnica de Chimborazo},
-  doi = {10.5281/zenodo.18483848}
+  doi = {10.5281/zenodo.18483847}
 }
 ```
 
