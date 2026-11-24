@@ -4,6 +4,7 @@
 
 Copyright (c) 2026
 Ares Apolo Vega Chiriap
+Angel Patricio Flores Orozco
 
 Este repositorio se distribuye bajo la licencia **Creative Commons Attribution 4.0 International (CC BY 4.0)**.
 
@@ -25,7 +26,7 @@ Esta licencia permite:
 - Adaptar, transformar y reutilizar el contenido.
 - Utilizar el material con fines académicos, educativos o comerciales.
 
-Siempre que se otorgue la atribución correspondiente al autor y se indique si se realizaron modificaciones.
+Siempre que se otorgue la atribución correspondiente a los autores y se indique si se realizaron modificaciones.
 
 ---
 
@@ -42,7 +43,7 @@ La licencia CC BY 4.0 aplica exclusivamente a los aportes originales desarrollad
 - alineación de pares bilingües;
 - procedimientos de limpieza y normalización;
 - organización y procesamiento de los datos;
-- cualquier otro contenido original generado por el autor.
+- cualquier otro contenido original generado por los autores.
 
 ---
 
@@ -66,10 +67,10 @@ Los usuarios son responsables de verificar las condiciones legales correspondien
 
 Este repositorio constituye un recurso académico desarrollado con fines de investigación.
 
-El autor no reclama derechos de autor sobre los documentos originales utilizados como fuente, sino únicamente sobre la selección, organización, estructuración, alineación, procesamiento, documentación y demás aportes intelectuales incorporados durante la construcción del corpus.
+Los autores no reclaman derechos de autor sobre los documentos originales utilizados como fuente, sino únicamente sobre la selección, organización, estructuración, alineación, procesamiento, documentación y demás aportes intelectuales incorporados durante la construcción del corpus.
 
 ---
 
 ## Cita recomendada
 
-Vega Chiriap, A. A. (2026). *Construcción de un corpus paralelo español–shuar mediante técnicas de ingeniería de datos para aplicaciones de procesamiento del lenguaje natural*. Escuela Superior Politécnica de Chimborazo. https://doi.org/10.5281/zenodo.18483848
+Vega Chiriap, A. A., & Flores Orozco, A. P. (2026). *Construcción de un corpus paralelo español–shuar mediante técnicas de ingeniería de datos para aplicaciones de procesamiento del lenguaje natural*. Escuela Superior Politécnica de Chimborazo. https://doi.org/10.5281/zenodo.18483848
