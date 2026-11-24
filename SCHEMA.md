@@ -20,7 +20,7 @@ El corpus contiene pares de oraciones alineadas (1:1), extraídos de documentos 
 | Unidad de alineación | Oración–Oración (1:1) |
 | Idiomas | Español (es), Shuar (jiv) |
 | Licencia | CC BY 4.0 |
-| DOI | https://doi.org/10.5281/zenodo.18483848 |
+| DOI | https://doi.org/10.5281/zenodo.18483847 |
 | Versión | 1.1.1 |
 | Última actualización | Noviembre 2026 |
 
