@@ -210,6 +210,13 @@ Los documentos originales utilizados como fuente mantienen los derechos de autor
 Escuela Superior Politécnica de Chimborazo  
 Sede Morona Santiago
 
+## Coautor
+
+**Angel Patricio Flores Orozco**
+
+Escuela Superior Politécnica de Chimborazo  
+Universidad Politécnica Salesiana
+
 2026
 
 <!--
