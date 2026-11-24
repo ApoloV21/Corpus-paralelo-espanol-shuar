@@ -177,7 +177,7 @@ Si utiliza este corpus en una investigación, cite el recurso de la siguiente ma
 
 ```bibtex
 @misc{Vega2026,
-  author = {Vega Chiriap, Ares Apolo},
+  author = {Vega Chiriap, Ares Apolo and Flores Orozco, Angel Patricio},
   title = {Corpus Paralelo Español--Shuar},
   year = {2026},
   publisher = {Escuela Superior Politécnica de Chimborazo},
